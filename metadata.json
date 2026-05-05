@@ -1,0 +1,6 @@
+{
+  "name": "分組小工具 (Grouping Tool)",
+  "description": "快速將名單分組的精美小工具。支援多彩配色區分、指定組數或人數、隨機排序與動畫顯示。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
